@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "ericof@plone.org",
+      "properties": {
+        "fullname": "Treinamento TRE-MS",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "trems"
+    }
+  ],
+    "team": [
+  ]
+}
